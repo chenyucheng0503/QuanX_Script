@@ -3,7 +3,7 @@
 ## 来自[chavy大佬](https://github.com/chavyleung/scripts) 的脚本库，添加了[rewrite_remote]订阅，引用conf文件即可
 > 2020.12.6 创建代码
 > rewrite 引用链接：https://raw.githubusercontent.com/chenyucheng0503/QuanX_Script/main/10086/10086.conf
-> 或者在 配置文件-[rewrite_remote]中复制：https://raw.githubusercontent.com/chenyucheng0503/QuanX_Script/main/10086/10086.conf, tag=10000Cookie, update-interval=86400, opt-parser=false, enabled=true
+> 或者在 配置文件-[rewrite_remote]中复制：https://raw.githubusercontent.com/chenyucheng0503/QuanX_Script/main/10086/10086.conf, tag=10086Cookie, update-interval=86400, opt-parser=false, enabled=true
 
 
 
