@@ -1,2 +1,3 @@
 # QuanX_Script
 用于自用的QuantumultX脚本
+主要包含cinf文件 方便获取cookies的打开和关闭
